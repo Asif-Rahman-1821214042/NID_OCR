@@ -1,7 +1,7 @@
 """
 Draw bounding boxes from nid_fields.json on the NID image.
 Usage: python draw_nid_boxes.py [image_path] [json_path]
-Defaults: IMAGE_PATH from nid_ocr.py or "arafat.jpg", nid_fields.json in cwd.
+Defaults: IMAGE_PATH from nid_ocr.py or "arafat.jpg", nid_fields.json in cd.
 """
 
 import json
