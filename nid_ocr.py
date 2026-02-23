@@ -2,7 +2,7 @@ import json
 import re
 import sys
 from pathlib import Path
-
+# bam
 from PIL import Image
 from surya.foundation import FoundationPredictor
 from surya.detection import DetectionPredictor
